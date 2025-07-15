@@ -1,0 +1,399 @@
+Synopsis: Acne vulgaris suppresses an individual’s self-conﬁdence by causingdistress with regard to physical appearance, which affects a signiﬁ-cant number of individuals during puberty and is delineated byadolescence. Several treatments have been introduced to decreasethe aesthetic and psychological problems caused by acne. The topi-cal application of therapeutic agents has been found to be morefeasible than hormonal treatment and laser therapy. The ingredi-ents in topical acne treatments, particularly herbs and naturallyderived compounds, have received considerable interest as theyhave fewer adverse effects than synthetic agents.
+
+Introduction
+Acne is a skin disorder that suppresses an individual’s self-esteem
+with regard to physical appearance and has a clinical onset during
+puberty and adolescence [1]. A high incidence of acne is found in
+girls aged 14–17 and in boys aged 16–19 [2]. The pathogenesis of
+acne is regulated by sebum hypersecretion in deformed follicles,
+which leads to microcomedones, and the follicular hyperproliferation of microcomedones causes inflammation [3], and comedones
+[4] in both open and closed types (black and white comedones)
+appearing in papules, pustules, nodules and cysts [5]. The resulting
+skin condition with sebum enrichment is prone to the anaerobic
+growth of Propionibacterium acnes, which is the main causative
+microorganism in acne. In addition, Staphylococcus epidermidis and
+Pitryosporum ovale are present in acne lesions [6]. Proliferation of
+these microorganisms, mainly P. acnes, leads to inflammatory
+lesions and severe acne.
+Therefore, acne formation needs to be addressed, particularly
+acne vulgaris. In addition to adolescent acne, drugs are a relatively
+common cause of eruptions resembling acne. Drug-induced acne or
+acneiform dermatoses that can have a sudden onset e.g. within
+1 day of drug administration can be resolved after the drug is
+stopped. Acneiform dermatoses have an unusual lesion distribution,
+such as inflammatory papules and pustules that are small and
+uniform in size (monomorphic), and can lead to secondary comedones of which the earliest histological event is spongiosis followed by
+lymphocytic and neutrophilic infiltrates, respectively [7]. Those
+drugs capable of producing eruptions have been summarized elsewhere [8]. Therefore, although the initial causes are different, the
+pathogenesis of acne vulgaris can be similar. Thus, some treatments are used for both adolescent and drug-induced acne. In this
+review, the therapeutic ingredients in topical applications relevant
+to the pathogenesis of acne vulgaris lesions were evaluated, as topical application is more feasible [9], especially with the naturally
+derived compounds already in use and candidate compounds.
+Sebaceous glands in acne formation
+Acne is pronounced in puberty and adolescence [10] and is positively related to sebaceous gland function, particularly in teenage
+boys [11], which androgenically stimulates higher sebum secretion
+[12]. The secreted sebum normally contains a mixture of lipids,
+squalene, wax and cholesterol both in free and in ester forms and
+triglycerides that naturally provide a skin barrier function [13].
+However, the resulting abnormalities in sebaceous glands because
+of hormonal effects alter sebum composition and linoleic acid
+content is notably decreased [14]. Thus, the skin barrier is
+impaired and colonization of normal flora is promoted.
+Propionibacterium acnes in acne formation
+Abnormalities in sebaceous gland function, particularly watersoluble lipids mainly facial triglycerides in sebum, are inflammatory-enhancing factors that promote the metabolism of the normal
+flora, such as P. acne. P. acne has a mitogenic effect towards T cells
+[15] by means of heat-shock proteins (HSPs) [16], contributes to
+toll-like receptors (TLRs) [17] and activates CD4+ expressed in
+keratinocytes and sebocytes and neutrophil function [18]. Colonization of this anaerobe consequently produces cytokines and other
+proinflammatory compounds including interleukins (IL), tumour
+necrosis factors (TNF), interferon (IFN) gamma and granulocyte–
+macrophage colony-stimulating factor (GM-CSF) [5, 19]. In
+addition to follicular keratinocytes, IL induction leads to microcomedone formation, and the bacterium activates TLRs inducing
+the attraction of lymphocytes, neutrophils and macrophages.
+Abnormal keratinization and deficiency of linoleic acid in the
+follicle also promote the growth of P. acne [20], which in turn stimulates the production of proinflammatory cytokines/chemokines in
+sebocytes [21] and provokes chronic inflammatory lesions [22].
+Reactive oxygen species in acne formation
+Reactive oxygen species (ROS) are subsequently generated from the
+hypercolonization of P. acnes [5, 23] in addition to metabolism in
+living organisms and from UV exposure. Although ROS perform a
+useful function in the skin barrier against acne microbes [24, 25],
+excess formation affects skin condition by activating neutrophil
+infiltration. ROS including singlet oxygen, superoxide anion, hydroxyl radical, hydrogen peroxide, lipid peroxide and nitric oxide (NO)
+play an important role in inflammatory acne as well as in tissue
+injury. ROS stimulate the formation of nuclear factor jB (NF-jB)
+[26], promote TNF formation [27] and consequently activate T
+lymphocytes and keratinocytes. The cytokines IL, TNF, IFN, lipopolysaccharide (LPS), transforming growth factor (TGF) and prostaglandin (PG) are then produced and released [28–32].
+In summary, skin inflammation is initiated by CD4+ in T lymphocytes, regulated by TLRs following neutrophil infiltration which
+generates ROS, and protease enzymes leading to follicular wall
+rupture of sebaceous glands. This consequently changes the composition of sebum, particularly linoleic acid. Hyperkeratinization is
+initiated as well as a reduction in desquamation. Subsequently, the
+proinflammatory cytokines, NF-jB, IL, TNF, IFN, LPS, TGF, PG and
+GM-CSF are released causing microcomedones. The resulting microcomedones further develop into comedones and inflammatory
+lesions.
+The topical agents used in the treatment of acne have been summarized, particularly the naturally derived compounds as they are
+believed to be safer than the synthetic compounds [33]. In addition, P. acne resistance to some antibiotics used in the treatment of
+acne has been observed [34, 35].
+Active ingredients for topical acne treatment
+Retinoic acid and derivatives
+Keratolytic agents such as cis-retinoic acid, retinol and retinol
+ester are commonly used to normalize keratinization as they have
+a suppressive effect on sebaceous gland function [9, 36, 37].
+These vitamin A derivatives suppress TLR’s expression and inhibit
+IL and IFN production. Cell migration of CD4+ and CD8+ T lymphocytes and macrophage is inhibited [38, 39]. Tretinoin or
+trans-retinoic acid is also used as a comedolytic agent. It normalizes follicular epithelium desquamation by unplugging the follicle.
+The growth of P. acnes is reduced consequently. However, topical
+application of anti-inflammatory retinoids [40] leads to irritation,
+which is dose responsive [41]. Therefore, appropriate vehicles
+should be used to diminish this effect in addition to structural
+modification. Adapalene, a retinoid-like activity agent, with
+comedolytic and anti-inflammatory effects was synthesized. It has
+been formulated mainly in a gel and cream that found more
+effective than tretinoin [42]. Another retinoid-like activity agent,
+tazarotene, which is rapidly converted to its active form, tazarotenic acid, has been introduced. However, it had a greater effect
+on non-inflammatory than on inflammatory lesions, which was
+dose dependent [43] as reviewed [44] with the other retinoid
+derivatives such as motretinide, retinoyl b-glucuronide and
+retinaldehyde. Unfortunately, there is no comparative study with
+tretinoin.
+Benzoyl peroxide
+The application of benzoyl peroxide, an anti-microbial agent with
+high affinity that inhibits P. acnes and S. aureus [36], was incorporated into various formulations, mainly gels [45]. Benzoyl peroxide
+improves inflammatory and non-inflammatory lesions [46] by generating ROS in the sebaceous follicle-inhibiting microorganisms
+[24, 25] with a reduction in free fatty acids triggering the formation of microcomedones [47]. However, its irritancy limits its application [48]. Combination products were, therefore, formulated to
+overcome this drawback with an additional benefit on the synergistic effect when in combination with adapalene [49].
+A comparative study between the combination of erythromycin
+and benzoyl peroxide and the combination of erythromycin and
+tretinoin was conducted. The former combination significantly
+improved the treatment of acne vulgaris [50].
+Salicylic acid
+Salicylic acid, a mild keratolytic and anti-inflammatory agent [51]
+that inhibits PG synthesis, was used to remove follicular clog [36]
+in various formulations, particularly an alcoholic solution for
+cleansing. This formulation posed better efficacy than benzoyl peroxide [52]. Salicylic acid is a milder agent compared with retinoids.
+A combination of salicylic acid, and benzoyl peroxide would
+increase treatment efficacy as their mechanisms are differ [45]. In
+addition to being a cleansing product, skin peeling using salicylic
+acid was found to significantly reduce comedones [53].
+Azelaic acid
+Naturally occurring azelaic acids possess comedolytic activity [54],
+anti-bacterial properties against P. acnes [55] including the normalization of keratinization [56] and anti-inflammatory effects on neutrophil function [57] as well as skin-lightening properties [58]. In
+addition to a single treatment with azelaic acid, combination treatments with other anti-acne agents, particularly benzoyl peroxide,
+enhanced efficacy [59]. Furthermore, azelaic acid is safer with less
+irritation and phototoxic response [60]. In addition, P. acne resistance to azelaic acid has not been reported [56].
+Vitamin B
+Similar to vitamin A that is extensively used in acne, vitamin B3
+or nicotinamide is useful as it inhibits IL-8 production in keratinocytes through NF-jB induced by P. acnes during the early phase of
+inflammation [61]. Consequently, melanosomes transferring to
+keratinocytes are reduced [62]. In addition, nicotinamide was
+believed to suppress leucocyte peroxidase that damaged skin barrier
+function including enhancing sebum synthesis and consequently
+reducing transepidermal water loss. Therefore, it was regarded as
+the newest vitamin for inflammatory lesion treatment.
+Vitamin C
+Ascorbic acid or vitamin C, the most well known anti-oxidant, poses
+anti-inflammatory properties that are appraisal in the treatment of
+acne [63]. It scavenges the generated radicals terminating inflammation accordingly. However, it is unstable in a free form. Therefore, structural modification, for example sodium ascorbyl phosphate
+achieving stability, was carried out. This more stable derivative was
+used to treat the inflammatory lesions in addition to retinol. The
+combination treatment significantly reduced the lesions [9].
+Serum zinc level was found to be low in patients with acne [64].
+Treatment with zinc was therefore shown to improve inflammatory
+acne [65].
+In addition, oral and topical antibiotics have been used in the
+treatment of acne. This article will briefly discuss only macrolides
+and tetracyclines, which are the main antibiotics used for acne, as
+informative reviews have been presented [34, 66–68].
+Macrolides
+In addition to the aforementioned active agents, topical administration of antibiotics particularly macrolides are used in the treatment
+of acne. Oral administration is used for severe acne and acne that
+is resistant to topical treatment [1]. The macrolides, erythromycin
+and clindamycin, are used with respect to their anti-oxidant and
+anti-inflammatory activities [69, 70]. However, P. acne resistance
+[35] as well as gastrointestinal irritation and vaginal candidiasis
+especially photosensitivity including drug interactions were found
+following applications of macrolides [66]. Although a structural
+modification in a fewer gastrointestinal side-effect agent, azithromycin, was carried out. It was found to accumulate in breast milk
+[71].
+Tetracyclines
+Another class of antibiotic that is widely used in acne treatment is
+tetracyclines. Tetracyclines show anti-inflammatory activity inhibiting PG synthesis as well as NO synthase suppression [72, 73].
+However, the adverse effects of tetracyclines are similar to those of
+macrolides. The most common side effects are lightheadedness,
+dizziness and tinnitus [74] including yellow staining of teeth and
+nail diseases such as photo-onycholysis, although these side effects
+are not common in doxycycline and minocycline. Light sensitivity
+has been demonstrated following the administration of doxycycline
+[75].
+To overcome the adverse effects of antibiotics, combination therapy with a systemic treatment should be conducted. Stepwise treatment must be carried out to minimize antibiotic exposure
+diminishing microbial resistance.
+In addition to the aforementioned treatments, hormonal therapy
+with anti-androgens such as spironolactone, flutamine and cyproterone acetate has been used to treat acne. However, adverse
+effects have been noted [10, 76]. Laser and light-based therapy
+potentially clear acne with improvements in acne scarring and skin
+texture. Nonetheless, these methods are costly and pain causing
+[77].
+Thus, a natural therapy lacking adverse effects is highly desired
+with respect to its conceivable safety [33] and rare P. acne resistance. Naturally derived compounds, particularly those from herbs,
+are therefore reviewed in this article. The herbs included are those
+of well known and candidate herbs used in the future development
+of anti-acne products.
+Herbs for acne treatment
+The use of natural remedies is a highly approached in human
+health [78], in particular cosmetics with an ongoing search for
+novel biologically active botanical agents [79]. Traditional therapeutics, for instance ayurvedic formulations [80], which are sometimes classified as complementary and alternative medicine (CAM),
+have been used in acne treatment. Therefore, plants that are
+currently used and those with a high potential are summarized as
+follows:
+Already used herbs
+Aloe vera extract is used as a component in Ayurvedic formulations. It significantly reduced acne lesions [80]. This Asian dermatological remedy was in accord with the therapeutic use of Aloe
+spp. in South Africa [81]. However, A. vera was insignificant to
+suppress P. acnes-induced ROS and proinflammatory cytokines
+[82]. In the same ayurvedic formulation, Azadirachta indica,
+Curcuma longa and Hemidesmus incidus were used for acne treatment [80]. These herbs significantly suppressed the production of
+ROS induced by P. acnes [82]. Accordingly, their anti-inflammatory
+activity should be stronger than A. vera, highlighting their potential
+in inflammatory lesions treatment.
+A common spice, poultice onion (Allium cepa), was traditionally
+used for acne [83] owing to its mild keratolytic, anti-fungal and
+bacteriostatic properties with respect to its sulphur containing [84]
+including its anti-inflammatory flavonoids [85]. However, its malodor limits the application as well as the possibility of irritation.
+Asia is not the only continent using traditional herbs for the
+treatment of acne vulgaris. Centella asiatica was used as a general
+tonic for leprosy and wounds particularly for acne in Africa [86].
+Although its mechanism remains unknown, skin care products
+containing C. asiatica are widely commercialized in Asia.
+Essential oils of Eucalyptus radiate and Melaleuca alternifolia
+commonly known as Australian eucalyptus and tea tree,
+respectively, have been extensively used in acne treatment [87].
+M. alternifolia oil gel was found to effectively reduce acne lesions
+compared with benzoyl peroxide at the same concentration but fewer
+side effects [88]. Its inhibitory activity against skin flora including
+S. aureus, S. epidermidis and P. acnes was contributed by the major
+aroma components, terpinen-4-ol, a-terpineol and a-pinene [89].
+However, terpene and limonene in tea tree oil caused allergies in
+hypersensitive skin [90]. Thus, caution regarding the dose used
+should be taken. However, adverse reaction of tea tree oil is rare.
+Therefore, it is one of the most popular and effective over-the-counter
+acne treatments [45]. In addition, juniper (Juniperus communis) oil
+was also found to be effective in the treatment of acne [87].
+Licorice or Glycyrrhiza glabra, an herb native to Asian countries,
+was topically applied in the treatment of acne [91] because of its
+anti-inflammatory effect [92]. However, its anti-oxidant activity
+was low [93]. In addition, Gossypium barbadense, an anti-microbial
+and anti-oxidant herb [94], was used as a folk remedy for acne in
+Yemen owing to its biologically active terpenoids [95].
+Basil or O. gratissimum was used to treat acne both in combination with A. vera gel [96] or alone [97] because of the powerful
+anti-inflammatory activity of the containing linolenic acid [98].
+Rosa damascene, which is mostly used as a fragrance, was found
+to effectively inhibit P. acnes with respect to its anti-inflammatory
+action [99]. Similarly, rose oil was used in the treatment of acne
+[87]. Therefore, rose should be incorporated into cosmetic products
+as a multifunctional ingredient. Red clover or Trifolium pretense was
+employed as an acne remedy because of its anti-inflame flavonoids
+[100].
+Subjectively used herbs
+In addition to the aforementioned herbal extracts, the following
+herbs have been used subjectively in acne treatment:
+The anti-inflammatory effects of Roman and German chamomiles (Anthemis nobilis and Matricaria recutita) were applied in skin
+inflammation treatment owing to their biologically active flavonoids, particularly apigenin, a-bisabolol and chamazulene [101].
+Comparable activity against P. acnes and S. epidermidis was
+found between tea tree and Abies koreana oils containing bornyl
+acetate, limonene, a-pinene and camphene as the main compounds. In addition to acne pathogenesis inhibition, A. koreana oil
+exhibited anti-inflammatory effects towards LPS, TNF, IL, NO and
+PG [102]. In addition to those mentioned biologically active essential oils, S. epidermidis was found to be inhibited by Salvia sclarea
+(minimum inhibitory concentration; MIC = 1.5–2 mg ml)1
+) [103]
+and Ziziphora clinopodioides [104] oils. Furthermore, the essential
+oils of Anthemis aciphylla [105] and Tamarix bovena [105] were
+found to inhibit facial flora that would applicable in acne care
+product.
+Eucommia ulmoids, a traditional tonic used in East Asia, was
+found to potently inhibit P. acnes (MIC = 0.5 mg m)1
+) and reduced
+the secretion of proinflammatory cytokines [99]. Thus, this herb
+should be further formulated in acne care products and clinically
+evaluated to prove its efficacy in human volunteer.
+The susceptibility of P. acnes and S. epidermidis was tested on
+hop (Humulus lupus)-isolated compounds, lupulones and xanthohumol. Lupulones were the most potent bactericidal compounds
+against P. acne and S. epidermis at a MIC of 0.1 lg ml)1
+, whereas
+xanthohumol, a strong S. epidermidis inhibitor, showed stronger
+anti-oxidant activity [107].
+Jojoba liquid wax, a common ingredient of cosmetics, was found
+to effectively reduce neutrophil infiltration by reducing myeloperoxidase activity. Nitric oxide level was reduced as well as TNF-a
+release [108], which is appraisal for inflammatory acne treatment.
+The oriental anti-inflammatory herb [109], Magnolia officinalis,
+has long been used in East Asian countries. Its magnolol and honokiol potently inhibit P. acnes and P. granulosum (MIC = 3–4 and
+9 lg ml)1
+, respectively) with the proven anti-inflammatory effects
+[110].
+Radical scavenging activities of emblica or Phyllanthus emblica
+were found to be appropriate for acne treatment because of its
+active components that were mainly ascorbic acid, gallic acid and
+skin whitening agents, quercetins, and ellagic acid. In particular,
+the isolated geraniin showed the highest activities in DPPH and
+lipid peroxidation assays as well as NO scavenging activity [111–
+114].
+Biological activity assessments of Punica granatum, which is
+an edible fruit, were made using radical, lipid peroxidation and
+Table I Functions and applications of herbs for topical acne treatment
+Name Function Application/Dosage
+Abies koreana P. acnes and S. epidermidis inhibitions and anti-inflame [102] Essential oil
+Allium cepa Anti-inflame [83] Poultice
+Aloe vera Anti-inflame [80–82] Cream, gel
+Anthemis aciphylla Anti-bacterial [105] Essential oil
+Anthemis nobilis Anti-inflame [101] Cream, ointment
+Aralia continentalis Anti-inflame [117] Not available
+Azadirachta indica Anti-inflame [80] Cream, gel, essential oil
+Centella asiatica Wounds and acne scar healings [86] Tonic
+Clerodendron trichotomum Anti-inflame [118] Not available
+Curcuma longa Anti-bacterial, anti-inflame [80, 82, 119] Cream, gel
+Garcinia mangostana P. acnes and S. epidermidis inhibitions, anti-oxidant [121–123] Not available
+Glycyrrhiza glabra Anti-inflame, anti-oxidant [91–93] Not available
+Gossypium barbadense Anti-microbial, anti-oxidant [94, 95] Decoction
+Eucommia ulmoides P. acnes inhibition and anti-inflame [99] Tonic
+Hemidesmus incidus Anti-inflame [80, 82] Cream, gel
+Humulus lupus P. acnes and S. epidermidis inhibitionsand anti-oxidant [107] Not available
+Magnolia officinalis P. acnes and P. granulosum inhibitionsand anti-inflame [110] Decoction
+Matricaria recutita Anti-inflame [101] Cream, ointment
+Melaleuca alternifolia P. acnes, S. aureus and S. epidermidis inhibitions[87–89] Cream, gel, essential oil
+Ocimum gratissimum Anti-inflame [96, 97] Gel
+Phyllanthus emblica Anti-oxidant [111–114] Not available
+Punica granatum Anti-oxidant [115] Not available
+Rosa damascene P. acnes inhibition and anti-inflame [99] Tea
+Salvia sclarea S. epidermidis inhibitions [103] Essential oil
+Selginella involvens Anti-inflame, anti-oxidant and P. acnes inhibition [116] Not available
+Tamarix bovena Anti-microbial [106] Essential oil
+Trifolium pretense Anti-inflame [100] Lotion
+Ziziphora clinopodioides S. epidermidis inhibition [104] Essential oil
+Active compounds Herbs
+Terpinen-4-ol, a-terpineol, a-pinene Australian eucalyptus and tea tree oils [89]
+Apigenin, a-bisabolol, chamazulene Roman and German chamomiles [101]
+Magnolol, honokiol Magnolia [110]
+Lupulones, xanthohumol Hop [107]
+Linoleic and lauric acids Apricot, argan, avocado, baobab, black currant seed, borage seed, cranberry seed, corn, coconut, cotton seed,
+evening primrose, grape seed, hazelnut, linseed, manketti nut, moringa, palm, poppy seed, pumpkin, rapeseed,
+raspberry seed, rice bran, safflower, sesame, sorghum, soybean, sunflower, sweet almond, walnut, wheat germ
+[124–126, 134]
+Salicylic acid Anise, bay, basil, canella, caraway, cayenne, celery, cinnamon, chilli, coriander, fenugreek, parsley, meadowsweet,
+mint, mustard, oregano, paprika, pepper, rosemary, sage, turmeric, thyme, willow [127–132]
+Azelaic acid Barley, rye, sorghum, wheat [134]
+superoxide assays [115]. Its anti-oxidant quality was high highlighting its capacity in the development of acne care products that
+have already been commercialized in Asia.
+The inhibition of NO production and scavenging activity of Selginella involvens were found to be dose dependent. This herb also has
+an anti-inflammatory effect towards IL in keratinocytes. Furthermore, its non-antibiotic, anti-microbial potential on P. acnes has
+been reported and was non-cytotoxic at a concentration
+<50 lg ml)1 [116].
+There were anti-inflammatory reports of Chinese medicinal
+plants root and leaf extracts. These include Aralia continentalis via
+inhibition of cyclooxygenase-2 (COX-2) and NO expression including NF-jB deactivation [117]. Clerodendron trichotomum was found
+to suppress PGE2 production [118], which appropriates for inflammatory acne treatment.
+Prevention of acne was traditionally carried out using Ayurvedic
+formulations containing Curcuma longa [80, 119], which have antibacterial and anti-inflammatory activities [120]. This plant has
+long been used in Thai folk remedies for skin care and for its aromatherapy aspects in various traditional preparations, for instance
+masks, and compresses.
+Garcinia mangostana is another economic fruit of Thailand. Its
+pericarp consisted of xanthones that potently inhibit P. acnes and
+S. epidermidis [121]. These anti-bacterial activities were found
+increased in a mature fruit [122]. Furthermore, it was found to be
+highly effective in free radical scavenging following P. acnes induction and suppressed the production of TNF-a, a pro-inflammatory
+cytokine [123], particularly in young fruit [122].
+The anti-inflammatory effects of free fatty acid in sebum particularly linoleic and lauric acids were found to inhibit P. acnes [124].
+Therefore, plants containing linoleic acid may be applicable in acne
+lesion reduction. Sunflower (Helianthus annuus) and pumpkin
+(Cucurbita pepo) seed oils as well as flax or linseed oil (Linum sp.),
+which have a high fatty acid content mainly linoleic and linolenic
+acids, were incorporated into a preparation for dermatological
+treatments including acne [125]. In addition to those natural oils,
+apricot (Prunus armeniaca), argan (Argania spinosa), avocado (Persea
+gratissima), baobab (Adansonia digitata), black currant seed (Rines
+nigrum), borage seed (Borago officinalis), cranberry seed (Vaccinium
+macrocarpon), corn (Zea mays), cotton seed (Gossypium sp.), evening
+primrose (Oenothera biennis), grape seed (Vitis vinifera), hazelnut
+(Corylus americana), manketti nut (Schinziophyton rautanenii), moringa (Moringa oliefera), palm (Elaesis guineensisi), poppy seed (Papaver
+orientale), rapeseed (Brassica napus), raspberry seed (Rubus idaeus),
+rice bran (Oryza sativa), safflower (Carthamus tinctorius), sesame
+(Sesamum indicum), soybean (Glycine soja), sweet almond (Prunus
+amygdalus), walnut (Juglans regia) and wheat germ (Triticum vulgare) oils, which contain more than 10% (w w)1
+) of linoleic acid
+[126], are used in the treatment of acne. However, evaluation of
+these vegetable oils in acne treatment should be performed.
+Furthermore, salicylic acid that is used to remove follicular clog
+in acne treatment in addition to its skin peeling effect that significantly reduced comedones with less irritation than retinoids [45]
+has been found in several herbs. Salicylic acid was originally
+isolated from meadowsweet (Spiraea ulmaria) or Filipendula ulmaria
+[127, 128] including F. hexapetala [129] and willow (Salix alba)
+[130]. Anise, bay, basil, canella, caraway, cayenne, celery, cinnamon, chilli, coriander, fenugreek, parsley, mint, mustard, oregano,
+paprika, pepper, rosemary, sage, turmeric and thyme are used as
+natural sources of salicylic acid [131, 132]. These herbs and spices
+in addition to fruits, for instance lemon, have been found to contain free salicylic acid in high content [133].
+As previously mentioned, azelaic acid is an efficacious acne
+treatment. Therefore, herbs containing azelaic acid should be effective in the treatment of acne. Sorghum bicolor is a cereal crop that
+contains azelaic acid and linoleic acid in adequate yield [134] similar to wheat, rye and barley that contain azelaic acid.
+Thus, application of these mentioned herbs is appraisal in acne
+care product supplying highly interest and demand in naturally
+derived cosmetics.
+Discussion
+Tea tree oil has been widely commercialized as an over-thecounter acne treatment and may be preferred owing to its efficacy
+and safety. However, the oriental tonic particularly E. ulmoids is
+considered an alternative herb for acne treatment as its crude
+extract potently inhibits P. acnes as well as magnolia and hop.
+Those of linoleic acid–enriched and azelaic acid–enriched herbs
+are capable for anti-acne formulation development, especially sorghum. Similarly, the essential oils especially from S. sclarea and
+Z. clinopodioides should be developed into anti-acne products as
+well as from A. koreana in addition to their functions as
+fragrance. In particular, rose should be promoted as a multifunction active ingredient for acne treatment. Moreover, those edible
+fruits with anti-oxidant and anti-bacterial activities, for example
+G. mangostana, P. emblica and P. granatum, should be developed as
+acne care products.
+Conclusion
+The herbs summarized in Tables I and II were found to effectively
+reduce inflammatory acne lesions through mechanisms related to
+sebaceous glands, P. acnes and ROS. However, an appropriate delivery system should be developed to impart their efficacies in addition
+to the standardization of these herbs. Furthermore, an optimized and
+effective dose should be evaluated prior to the development of
+preparations in order to avoid irritation or allergy in subjects with
+hypersensitive skin. Strict quality control will ensure their safety and
+efficacy. In addition, combination treatment should be conducted as
+it was found to be more effective than the application of a single product with regard to synergistic effects on the pathogenesis of acne.

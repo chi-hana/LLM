@@ -1,0 +1,336 @@
+Background Acne is very common and can have a substantial impact on wellbeing.Guidelines suggest ﬁrst-line management with topical treatments, but there is lit-tle evidence regarding which treatments are most effective.Objectives To identify the most effective and best tolerated topical treatments foracne using network meta-analysis.Methods CENTRAL, MEDLINE, Embase and World Health Organization Trials Reg-istry were searched from inception to June 2020 for randomized trials thatincluded participants with mild/moderate acne. Primary outcomes were self-reported improvement in acne, and trial withdrawal. Secondary outcomesincluded change in lesion counts, Investigator’s Global Assessment, change inquality of life and total number of adverse events. Network meta-analysis wasundertaken using a frequentist approach. Risk of bias was assessed using theCochrane Risk of Bias Tool and conﬁdence in evidence was assessed usingCINeMA.Results A total of 81 papers were included, reporting 40 trials with a total of 18 089participants. Patient Global Assessment of Improvement was reported in 11 trials.Based on the pooled network estimates, compared with vehicle, benzoyl peroxide(BPO) was effective (35% vs. 26%) for improving self-reported acne. The combina-tions of BPO with adapalene (54% vs. 35%) or with clindamycin (49% vs. 35%)were ranked more effective than BPO alone. The withdrawal of participants fromthe trial was reported in 35 trials. The number of patients withdrawing owing toadverse events was low for all treatments. Rates of withdrawal were slightly higherfor BPO with adapalene (25%) or clindamycin (27%) than BPO (16%) or ada-palene alone (10%). Overall conﬁdence in the evidence was low.Conclusions Adapalene in combination with BPO may be the most effective treat-ment for acne but with a slightly higher incidence of withdrawal than monother-apy. Inconsistent reporting of trial results precluded ﬁrmer conclusions.What is already known about this topic?• Guidelines suggest a number of different topical preparations as ﬁrst-line treatmentfor acne vulgaris.
+Evidence from head-to-head comparisons on the effectiveness of the most com-monly prescribed treatments for mild-to-moderate acne is incomplete or lacking.• Network meta-analysis uses all available trial data for direct and indirect compar-isons of most commonly prescribed topical preparations to treat mild-to-moderateacne vulgaris.What does this study add?• There is no convincing evidence that topical treatments containing antibiotics, asmonotherapy or in combination, are more effective for the treatment of mild-to-moderate acne than those that do not contain antibiotics.• Combination treatment with adapalene plus benzoyl peroxide may be more effec-tive than either treatment used alone, but may cause more adverse events.• There is no convincing evidence that adapalene or benzoyl peroxide are less likelyto cause adverse events when used alone.
+
+Acne vulgaris (hereafter ‘acne’) is very common in both ado-lescents and adults. 1 Acne can have signiﬁcant impact on qual-ity of life, including increased risk of depression. 2 Guidelinesdiffer in their recommendations and quality, 3 but NationalInstitute for Health and Care Excellence Clinical KnowledgeSummary (NICE CKS) UK guidelines suggest that ﬁrst-linetreatment should be a single-agent topical treatment, followedby combination topical treatment. 4 Guidelines in the USA,Canada and Europe are similar, recommending combinationtopical treatment as ﬁrst-line therapy. 5–7 Although topicalpreparations, such as benzoyl peroxide (BPO) and topical reti-noids (e.g. adapalene) can be effective, there is uncertaintyregarding the most appropriate strategy for initial and mainte-nance treatment. 2 While the prescription of topical antibioticsas monotherapy in the UK is declining, topical antibiotics asmonotherapy or in combination are still widely prescribed 8and contribute to antibiotic resistance. 9,10A 2014 James Lind Alliance Priority Setting Partnership foracne included the question ‘What is the best topical productfor treating acne?’ in their top 10 priorities for futureresearch. 11 There are multiple topical acne treatments and it isnot feasible to review and compare them all. However, it isreasonable to address the question set out in the Priority Set-ting Partnership by comparing treatments suggested in Euro-pean guidelines as ﬁrst-line topical preparations for mild andmoderate acne that are prescribed in the UK.Although these treatments are widely used, there are gapsin the evidence base regarding their effectiveness and tolera-bility. To date, there have been two Cochrane reviews thathave assessed topical treatments for acne. 12,13 However, thesereviews were able to provide only limited head-to-head evi-dence for key treatments, including adapalene + BPO, whichare widely used and recommended in guidelines.The uncertainty in the evidence base regarding optimalchoice of topical treatments for acne is important because (i)topical antibiotics, alone or in combination, may be useddespite being no more effective than topical nonantibiotic treat-ments, (ii) uncertainty leads to potential delays in treating acneeffectively, and (iii) patients may progress to other treatments ifacne does not improve, e.g. long courses of oral antibiotics.While traditional meta-analysis is limited to direct head-to-head comparisons, network meta-analysis techniques, some-times also called multiple-treatments meta-analysis, can over-come this by using all available data to build a network ofdirect and indirect comparisons. It allows estimates of effec-tiveness of treatment in addition to estimates of incoherence(how well the whole network ﬁts together). 14Materials and methodsProtocol and registrationThe study was conducted and is reported in line with thePRISMA-NMA guideline 15 and was preregistered on PROS-PERO (CRD42019135570).Public and patient involvementPrior to undertaking this study, we convened a ‘patient panel’of 10 people with current/former acne. We discussed theresearch question and how we might measure ‘effectiveness’and ‘adverse events’. The patient panel felt strongly that aparticipant-reported outcome should be the primary measure;it was their own assessment of their acne that mattered mostto them, not the assessment of a clinician. The patient panelalso helped to decide on the scope of the review, stressing theimportance of understanding whether prescribed topical medi-cations actually worked. The panel saw little value in includingmedications not currently available to them in the UK. Onemember of the patient panel joined the study team and is acoauthor of this article.
+Search strategy and information sourcesWe searched the Cochrane Central Register of ControlledTrials, MEDLINE and Embase, from inception to June 2020,for relevant journal articles, conference abstracts and system-atic reviews (Appendix S1; see Supporting Information). Oursearch was not limited by language. We also searched theWorld Health Organization International Clinical Trials Regis-try for relevant registered trials; we hand-searched referencesfrom included papers and relevant systematic reviews foradditional relevant trials and we contacted experts and phar-maceutical companies to ﬁnd any unpublished trials.
+
+Study selection: We included randomized controlled trials but excluded split-face and split-body trials owing to concerns about contamina-tion, quasirandomized trials and any nonrandomized designs.Two reviewers independently screened all titles, abstractsand full papers, using the eligibility criteria below, with anydisagreements resolved through discussion. We obtained andassessed full papers or conference abstracts for inclusion in thereview only if they were written in English. However, we kepta record of papers not written in English whose title andabstract were potentially relevant for inclusion in futureupdates.
+
+Eligibility criteria
+Population
+We included all trials where participants had mild-tomoderate acne (as defined by trial authors), regardless of age,
+sex, setting or previous treatments. We included trials in
+which there were mixed populations of acne severity, provided ≤ 50% of participants had severe acne. We excluded trials in which severity was not reported, or where it was
+unclear from the source material whether the trial was randomized.
+We excluded trials in which all participants had truncal acne
+only, were diagnosed with rosacea, unusual forms of acne,
+chloracne, acne inversa, acne fulminans, neonatal acne, infantile acne, occupational acne, drug-induced acne and acne
+specifically associated with endocrinopathies, including polycystic ovary syndrome, had previously received oral isotretinoin, or were only using the trial treatment as maintenance
+therapy directly following another acne treatment.
+Intervention
+This review compares topical preparations for mild/moderate
+acne described in the NICE CKS or European guidelines. The
+list was refined by a panel of dermatologists, general practitioners and patients for relevance to clinical practice and
+patient needs. Treatment regimens available in the UK at any
+dose, formulation or duration were included. Preparations no
+longer manufactured or available in the UK, or studies comparing different strengths or dosages of the same preparation
+were excluded (Box 1).
+
+Box 1 List of included topical treatments
+Generic name Examples of brand names
+Vehicle
+Azelaic acid Skinoren
+Adapalene Differin
+Adapalene + BPO Epiduo
+BPO Acnecide
+Clindamycin Dalacin T
+Clindamycin + BPO Duac
+Clindamycin + zinc Zindaclin
+Erythromycin + zinc Zineryt
+Isotretinoin + erythromycin Isotrexin
+Tretinoin
+Tretinoin + clindamycin Treclin
+Tretinoin + erythromycin Aknemycin Plus
+BPO, benzoyl peroxide.
+
+The comparator was placebo/vehicle or any treatment regimen, dose, or duration for the topical treatments listed in
+Box 1.
+The primary outcomes were:
+• proportion of participants self-reporting moderate or better global improvement in acne
+• proportion of participants withdrawing from trial or cessation of trial medication owing to adverse events.
+The secondary outcomes were:
+• change in mean total lesion count from baseline as
+assessed by an investigator
+• proportion of participants rated ‘clear’ or ‘almost clear’ on
+the Investigator’s Global Assessment (IGA) scale of acne
+severity
+• proportion of participants rated as having at least a twograde improvement from baseline on the IGA scale of acne
+severity
+• change in quality of life from baseline (assessed using a
+validated instrument such as Skindex-16, Skindex-29 or
+Cardiff Acne Disability Index)
+• reduction in Cutibacterium acnes strains
+• total number of adverse events
+• participant satisfaction with treatment.
+Data collection and data items
+A data extraction form was developed in Excel and piloted on
+two randomly selected papers to ensure consistency. Data
+available in graph format only were not extracted. Data extraction was performed by one reviewer and checked by a second
+reviewer.
+All outcomes were reported in the medium term, defined as
+5–16 weeks (with closest data point to 16 weeks used), with
+planned sensitivity analysis for short-term (2–4 weeks) and longterm (from 17 weeks to 12 months) outcomes. Trial arms that
+reported different strengths or dosages of the same medication
+were pooled.
+Risk of bias in individual studies
+Risk of bias was assessed using the Cochrane Risk of Bias Tool,
+covering patient allocation sequence generation, allocation
+concealment, blinding and selective outcome reporting.16
+Statistical analyses
+The network geometry has been presented graphically and
+describes the number of included interventions and the
+extent to which there are trials comparing different pairs of
+interventions.17,18
+The network meta-analysis was performed using a frequentist
+approach with a version of the R package netmeta, implemented in MetaInsight.19 We anticipated heterogeneity between
+trials and therefore used random effects models and a common
+variance approach.20 Equal heterogeneity across all comparators
+was assumed and a consistency model was adopted.
+For continuous outcomes, the effects were summarized
+using mean difference if included trials used the same outcome metric or using standardized mean difference if trials
+reported different outcome metrics. Continuous outcomes
+were modelled using normal likelihood, and dichotomous
+outcomes were modelled using binomial likelihood models to
+produce odds ratios (ORs). A reduced weights approach was
+used to account for correlation between arms in multiarm
+trials.21 Ranking of treatments was undertaken using the PScore approach.22
+We used the design-by-treatment test to evaluate global
+inconsistency, and node splitting was used to examine inconsistency between direct and indirect effects, with a P-value <
+005 considered to be suggestive of conflicting evidence.19
+Confidence in evidence
+The confidence in the evidence across trials was assessed using
+the Confidence in Network Meta-Analysis (CINeMA) approach23
+and ratings were conducted in the CINeMA app.23,24
+CINeMA considers the following six domains: within-study
+bias, reporting bias, indirectness, imprecision, heterogeneity
+and incoherence. These domains are rated as ‘no concerns’,
+‘some concerns’ or ‘major concerns’, with the exception of
+reporting bias, which is rated as ‘suspect’ or ‘undetected’.
+Judgements are then summarized across these six domains as
+‘very low’, ‘low’, ‘moderate’ or ‘high’ confidence for each
+treatment comparison.23
+Comparisons were considered to have suspected risk of
+reporting bias if all or most of the comparisons were from
+industry-funded trials. Indirectness was downgraded for comparisons that were poorly connected in the network. For
+imprecision, the threshold was set at an odds ratio of 15 for
+binary comparisons and a difference of 10 for lesion counts
+based on discussion.
+Results
+Study selection and network structure
+We identified 3717 references and, after removing duplicates,
+2236 were screened by two reviewers for eligibility. We
+obtained 329 full texts and identified 133 eligible full texts
+reporting on 82 trials. An updated search in June 2020
+identified a further 23 full texts, nine of which were eligible.
+We excluded 54 full texts, comprising 5126 participants,
+because the outcomes of interest could not be extracted. Of
+the trials identified by the original and updated searches, 81
+full texts reporting on 40 trials including a total of 18 089
+participants provided outcome data for meta-analysis (Figure 1).25–62
+Figure 2 shows network plots for direct evidence between
+treatments. In all analyses, the main comparator was vehicle.
+For all outcomes, the most common treatment studied was
+BPO compared with vehicle, followed by adapalene and adapalene + BPO compared with vehicle. Fewer trials compared
+clindamycin + tretinoin, erythromycin + zinc or tretinoin, tretinoin alone or azelaic acid with any other treatment.
+Trial characteristics and risk of bias
+Key trial characteristics and risk of bias are detailed in
+Table S1 and Figures S1 and S2 (see Supporting Information).
+The mean sample size was 454 participants (SD 524). The
+average age was 1977 years (SD 313) and 577% of participants were female. Overall, 50% of recruited participants were
+from North America, 29% were from Europe, 24% were from
+Asia, 5% were from South America and 3% were from Australia, but the ethnicity of these populations was poorly
+reported. Pharmaceutical companies sponsored 54% of trials
+and a further 38% did not report the funder.
+Most trials had an unclear risk of bias for at least one
+domain owing to poor reporting and none had low risk of
+bias across all domains. While blinding of participants was
+generally well described in trials that included a vehicle, many
+trials were unclear in their description of the blinding of trial
+personnel. All trials were randomized, but the generation of
+the randomization sequence was poorly described in 30 trials.
+Trial results
+Table S2 sets out the pooled network analysis results and confidence ratings for all treatment comparisons. Figure 3 sets out
+all the pooled network comparisons relative to vehicle. Below,
+we consider the outcomes from the review for which sufficient data were available for network analysis. All treatment
+rankings and associated probabilities are set out in Tables S3–
+S6 (see Supporting Information).
+Patient Global Assessment of Improvement
+The proportion of participants who rated their acne as
+‘improved or much improved’ was reported in 11 trials that
+included 6947 participants. Figure 3 shows that all treatments
+were significantly more effective than vehicle.
+Table 1 sets out direct (no shading) and pooled (in grey)
+ORs and 95% confidence intervals (CIs) for comparisons. Compared with vehicle, adapalene + BPO had an OR of 365 (95%
+CI 258–515; moderate confidence) and network comparisons
+suggest that this treatment was significantly more effective than
+all other included treatments apart from clindamycin + BPO
+(OR 122, 95% CI 081–185; low confidence). Clindamycin +
+BPO was significantly more effective than BPO (OR 154, 95%
+CI 114–208; low confidence) or clindamycin alone (OR 191,
+95% CI 136–268; moderate confidence).
+Adverse events
+The withdrawal of participants from the trial or participants
+stopping the trial medication was reported in 35 trials of
+16 735 participants. Results are set out in Table 2 and the rankings suggest that the lowest odds of withdrawal were in participants who used clindamycin. Clindamycin was associated with
+significantly lower odds of withdrawal than clindamycin + BPO
+(OR 217, 95% CI 125–370; very low confidence), BPO (OR
+238, 95% CI 120–476; moderate confidence) or adapalene +
+BPO. The highest odds of withdrawal/discontinuation were for
+adapalene + BPO (OR 435, 95% CI 213–909; moderate confidence). Participants using adapalene + BPO had an OR of
+256 (95% CI 141–476; moderate confidence) compared with
+adapalene alone, suggesting that the odds of withdrawal/discontinuation were three times higher with combination treatment than adapalene alone. Similarly, participants using
+adapalene + BPO had an OR of 222 (95% CI 094–526; moderate confidence) compared with those using tretinoin, and an
+OR of 185 (95% CI 108–313; moderate confidence) compared with those using BPO alone. However, the number of
+participants who withdrew owing to adverse events was low
+for all treatments (Table 3).
+Total lesion counts
+Mean change in total lesion counts was reported in 24 trials
+of 11 717 participants (Table 4). The largest change was
+observed in those using adapalene + BPO with a difference of
+2096 lesions (95% CI 2502 to 1690; moderate confidence) compared with vehicle. Network comparisons suggest
+significant improvements with adapalene + BPO compared
+with all other treatments apart from erythromycin + tretinoin,
+where the CIs were very wide and confidence was very low.
+Compared with the second ranked treatment, clindamycin +
+BPO, there were 827 (95% CI 1302 to 352; very low
+confidence) fewer lesions with adapalene + BPO. Clindamycin
++ BPO and BPO alone were more effective than clindamycin
+alone with low and moderate confidence, respectively
+Table 3 Number of reported withdrawals for each treatment
+Number of
+withdrawals
+Total
+number of
+participants %
+Clindamycin 24 3431 07
+Vehicle 19 2779 07
+Adapalene 22 2133 10
+Tretinoin 15 689 22
+Clindamycin + BPO 60 2231 27
+BPO 30 1872 16
+Adapalene + BPO 34 1358 25
+BPO, benzoyl peroxide.
+Investigator’s Global Assessment
+There were 14 trials of 13 342 participants that evaluated
+improvement in the IGA to ‘clear’ or ‘almost clear’ (Table 5).
+All treatments were significantly more effective than vehicle
+apart from tretinoin (OR 083, 95% CI 046–152; low confidence). Adapalene + BPO was significantly more effective than
+all treatments apart from clindamycin + BPO, with an OR of
+improvement of 383 (95% CI 240–610; moderate confidence) compared with vehicle. Based on the pooled network
+estimate, adapalene + BPO was approximately twice as likely
+to lead to improvement than either BPO or adapalene, with
+low and moderate confidence, respectively.
+Other outcomes and sensitivity analyses
+There was insufficient data to undertake meta-analyses or network analyses for quality of life, patient satisfaction, C. acnes
+resistance and sensitivity analyses of outcomes in the short or
+long term.
+Consistency
+There was no evidence of global inconsistency. However,
+some analyses suggested local inconsistency between direct
+and indirect comparisons (Tables S7–S10; see Supporting
+Information). The number of trials where pairs of direct and
+indirect estimates could be compared was very low and in all
+instances CIs for estimates of differences were wide, but there
+was no evidence of systematic differences with respect to
+potential effect modifiers. Therefore, this apparent inconsistency may represent true differences between direct and indirect effects, with indirect estimates being more precise as they
+came from a network with larger trials.
+Confidence in evidence
+The grading of the comparisons with CINeMA (Tables S11–
+S14; see Supporting Information) showed mainly low to very
+low confidence ratings. This was due to concerns about
+reporting bias resulting from the involvement of industry in a
+large number of small trials23 and to concerns about withinstudy bias owing to poor reporting of the randomization and
+blinding procedures noted above. There were few concerns
+about transitivity (indirectness). Owing to the strict inclusion
+criteria, most trials included a homogeneous population of
+interest. There was also evidence of heterogeneity and imprecision, usually related to the low numbers of trials available
+for some comparisons in the network.
+Discussion
+This study compared the most commonly prescribed topical
+treatments for acne in the UK and found no convincing evidence that topical treatments containing antibiotics are more
+effective in treating acne than those that do not contain antibiotics. Adapalene + BPO appears to be ranked the most effective
+treatment on all included outcomes. It is also associated with a
+higher odds of withdrawal owing to adverse events, but the
+overall incidence of this outcome was low for all treatments.
+Systematic reviews to date have not provided direct comparisons of some of the most commonly prescribed treatments.
+The recently published Cochrane review of BPO did not show
+statistically significant differences between BPO and other
+treatments;12 however, the study was not able to provide estimates for all other treatment comparisons. Similarly, the
+Cochrane review including azelaic acid13 was able to draw on
+only a limited number of direct trials to quantify differences
+between treatments.
+This network analysis benefits from the additional power of
+indirect comparisons within the network. However, caution is
+still needed in interpreting these results. Findings presented
+here help to highlight gaps where further head-to-head trials
+are needed. The rankings we have reported are sensitive to
+inclusion criteria and may change as further evidence emerges.
+Moreover, the confidence in the evidence was low, with considerable uncertainty remaining about the true effect estimate
+owing to poor reporting of study methods and the substantial
+number of trials with industry involvement.
+The use of oral antibiotics for acne is high62 and contributes to antibiotic resistance. Whereas resistance to topical
+antibiotics tends to be limited to the treated site, oral antibiotics can lead to resistance in commensal flora at all body
+sites.9 This study suggests that nonantibiotic treatments are
+effective as first-line treatment. Further research is needed to
+explore how these treatments compare with oral antibiotics
+used alone or in combination with topical treatments.
+Although we looked at many outcomes that were important
+to our patient panel, the study was hampered by poor and
+inconsistent reporting of trial outcomes. For the participantreported outcome, only 11 trials were included. The other 30
+trials either did not report the outcome of interest (n = 26) or
+it was reported inconsistently between trials (n = 4). Efforts to
+harmonize the reporting of outcomes is needed, particularly
+as the outcomes most commonly reported, such as lesion
+counts, were not the ones that the patient panel felt were
+most meaningful.
+For the purposes of this review, we considered total lesion
+counts. Members of our patient panel felt that this was more
+meaningful than the distinction between inflammatory and
+noninflammatory lesions. However, it is possible that the use
+of this global outcome disguises changes whereby certain phenotypes respond better to specific treatments.
+Data on adverse events were particularly poorly reported
+and we were not able to assess this outcome. This makes it
+difficult to discuss relative risks and benefits of the different
+treatments in a meaningful way. Although we have been able
+to compare the likelihood of participants discontinuing the
+study, reasons were rarely reported. We were not able to
+compare adverse events that may concern patients starting a
+new treatment regimen, such as stinging, itching or peeling.
+Blinding was reported in a number of trials and a suitable
+vehicle was used. However, BPO or retinoids can cause
+adverse events such as redness or peeling. This might have led
+to participants or clinicians guessing the allocation. It is hard
+to quantify the extent to which this may have occurred as it
+was not reported but, if this did occur, it would lower the
+overall quality of the reported evidence.
+Transitivity is one of the key assumptions of network metaanalysis. In order to achieve a population that was as homogeneous as possible, we excluded full texts where the reported
+severity of acne was not clearly mild-to-moderate. Within the
+scope of the review, we did not have the resources to contact
+all authors of these excluded full texts to obtain clarification.
+It is possible that limiting the review in this way may have
+improved homogeneity but introduced a selection bias. Similarly, we did not have the resources to translate articles from
+other languages. We found 24 titles and abstracts in other languages that may potentially have been eligible. These represent
+a small proportion of the total titles and abstracts screened,
+but the inclusion of only English-language full texts may be a
+source of bias.
+The medications in the network analysis account for about
+two-thirds of prescriptions in the UK in 2018,8 but there are
+notable gaps, with some treatments being poorly connected to
+the network and comparisons based on only a single trial.
+Data on azelaic acid were only available for the lesion count
+outcome and there were limited trials on combinations
+including erythromycin or erythromycin alone, which comprise a substantial proportion of topical prescriptions alone or
+in combination with other treatments.8,63
+We were also unable to investigate different concentrations
+of included treatments in the scope of this review. The pooling of treatment strength into a single comparison may disguise differences in effectiveness of different formulations and
+strength and further research is needed to explore this topic.
+Moreover, ethnicity was too poorly reported to explore
+whether there were any differences with respect to different
+skin types or skin colours.
+Based on evidence mainly graded as low to very low confidence, all topical treatments were more effective than vehicle,
+and adapalene + BPO was the most effective. Clinicians should
+evaluate this treatment option in consultation with patients as, although withdrawal owing to adverse events was uncommon,
+treatment with adapalene + BPO also appeared to have a
+slightly higher odds of this outcome. Further work is needed
+to compare topical treatment with oral antibiotic treatments
+and to consider which treatments may be most cost-effective.

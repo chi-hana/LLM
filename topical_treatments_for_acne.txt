@@ -1,0 +1,207 @@
+Abstract: Topical drugs have been used successfully to treat acne for decades. This review discusses the use,
+efficacy, and safety of options available via prescription. Topical antibiotics, dapsone, benzyl peroxide, azelaic acid, and topical retinoids are included. Topical antibiotics should not be used as monotherapy but rather
+be combined with other agents to avoid resistant Propionibacterium acnes strains. Benzoyl peroxide is effective in preventing bacteria resistance. Topical retinoids address primarily the comedonal but also the inflammatory lesions of acne. Azelaic acid is useful in treating acne lesions and for lightening
+postinflammatory hyperpigmentation that may accompany inflammatory acne lesions. Combinations of
+agents that address different aspects of acne pathogenesis may offer higher benefit to acne patients.
+
+Acne presents in different ages and in different severity.
+Topical antiacne drugs include antimicrobials, benzoyl peroxide, azelaic acid, and retinoids. They are effective for mild to
+moderate acne and may supplement the systemic treatment required in moderate to severe acne. Consensus guidelines recommend their use alone or in combination to target different
+aspects of acne pathogenesis.
+
+Topical antibiotics
+Topical antibiotics are used in acne due to their antibacterial
+and antiinflammatory actions. They offer limited benefit for
+the treatment of comedonal acne. The main antimicrobials
+employed are erythromycin and clindamycin. Tetracycline is
+less commonly used. Their antimicrobial effect is attributed
+to inhibition of bacterial protein synthesis. Their antiinflammatory activity possibly relates to the inhibition of the chemotaxis of polymorphonuclear leucocytes.2
+Erythromycin at 2-4% and clindamycin at 1% are available
+in various topical formulations. No significant differences in
+efficacy are known between 2% and 4% erythromycin. Erythromycin appears to be the most effective topical antibiotic on
+inflammatory acne lesions in past decades (94% improvement
+with erythromycin, 82% for clindamycin, and 70% for tetracycline)3,4; however, its effectiveness appears to be decreasing in
+more recent studies, probably due to the emergence to
+antibiotic-resistant bacteria.5 As monotherapy, topical clindamycin may be equally as effective as or superior to oral tetracycline in treating inflammatory lesions.6–8 Twice-daily
+application of 1% clindamycin is as effective as oral minocycline 50 mg twice daily.9
+Topical antibiotics have been a mainstay of acne treatment
+for many decades, although antibiotic resistance of Propionibacterium acnes was reported for the first time almost 40 years
+ago.10 More than 50% of P acnes strains are reported to be resistant, particularly to topical macrolides.11 Resistance appears
+to emerge through either selection of preexisting resistant bacterial strains or through de novo acquisition of a resistant phenotype. There is a cross resistance between erythromycin and
+clindamycin. Such resistant strains may appear about 2 weeks
+after starting topical antibiotics, and after only 4 weeks of
+topical erythromycin use, the aerobic flora of the face is
+dominated by erythromycin-resistant, coagulase-negative
+staphylococci.12 By week 12, erythromycin-resistant Staphylococcus epidermidis becomes the dominant species of staphylococci. There is a possible link of P acnes resistance to poor
+acne treatment outcomes with topical antibiotics.13
+The issue of antibiotic resistance is broader because other
+normal microbiome members are affected and changes in the
+microbiome may increase the risk of colonization by pathogenic organisms.14 Patients who have received topical antibiotics for acne are more often colonized by tetracyclineresistant Streptococcus pyogenes in the oropharynx than acne
+patients not treated with antibiotics.15 In addition, the risk of
+an upper respiratory tract infection in individuals who use antibiotics to treat acne is reported to be about two times higher
+than in those not using antibiotics.16
+The development of bacterial resistance is less likely in patients who are treated with a combination of benzoyl peroxide
+and erythromycin or clindamycin.17 The European guidelines
+for treatment of acne suggest that topical monotherapy with
+antibiotics is not recommended.1
+Combination of topical antibiotics with topical retinoids is
+more efficient than when each drug is used alone.18 Topical retinoids increase the penetration of antibiotics in the pilosebaceous, as well as the anticomedogenic and comedolytic
+activity19; however, they do not offer protection against development of resistant bacterial strains, as reported for the benzoyl peroxide and antibiotic combinations. Topical antibiotics are well
+tolerated; rarely, they may cause allergic contact dermatitis.20
+
+Azelaic acid
+Azelaic acid (AzA) is a naturally occurring dicarboxylic acid. It has antimicrobial, antiinflammatory, and comedolytic action with a well-established role in acne treatment. The
+antibacterial action affects different cutaneous microorganisms, including P acnes and S epidermidis. Azelaic acid reduces the concentration of P acnes on the skin surface and
+follicles. The exact mechanism remains unclear, but it may interfere with the transmembrane pH gradient that mainly inhibits protein synthesis of the susceptible microorganism.21
+The reduction of the intrafollicular P acnes population possibly further produces a reduction of free fatty acids arising from
+triglycerides due to the action of bacterial lipases.22
+The antiinflammatory activity of azelaic acid has been reported in several clinical studies, with diminution of inflammatory acne lesions being partially attributed to the findings
+that azelaic acid, in vitro, is a scavenger of reactive oxygen
+species and capable of inhibiting reactive oxygen species generation by neutrophils.23 Azelaic acid may also reduce the inflammatory response through inhibition of proinflammatory
+cytokines and the induction of peroxisome proliferatoractivated receptor γ.
+24–26 Another study found that azelaic acid promotes the downregulation of kallikrein 5 in epidermal
+keratinocytes, which subsequently downregulates cathelicidins and leads to a decreased inflammatory processes26; however, speculated antiinflammatory modes of action were
+correlated to rosacea rather than to acne.
+Azelaic acid further decreases the size and number of comedones by altering follicular hyperkeratosis. This is achieved
+by interfering with the synthesis of proteins involved in final
+keratinocytic differentiation.27,28 The effect of azelaic acid
+on sebum production remains unclear, with patients reporting
+a gradual reduction in skin greasiness29,30 and authors publishing controversial data.22,28,31
+Azelaic acid 20% cream is comparable to 5% benzoyl peroxide gel32 and 0.05% tretinoin cream33 at 6 months, with a
+significant reduction of inflamed lesions at 1 month, whereas
+2 months were necessary for comedodimunition.22 Similarly,
+azelaic acid 15% gel is as effective as benzoyl peroxide
+(BPO) 5% or clindamycin 1% at reducing superficial inflammatory acne lesions, at 4 months, with a twice-daily regimen.34 Azelaic acid 15% gel twice daily was found to be
+comparable to once-daily adapalene 0.1% gel after 12 weeks
+of treatment of women with acne.35
+The efficacy of the azelaic acid 15% gel is comparable to
+the combination of 5% benzoyl peroxide plus 1% clindamycin, with a similar reduction of inflamed lesions at 4 months.36
+A recent randomized, single-blind, parallel-group study reported a greater efficacy of BPO 3% plus clindamycin 1% over
+azelaic acid 20% cream at 4 weeks of treatment of mild to
+moderate acne vulgaris,37 with the superiority of BPO 3% plus
+clindamycin 1% sustained through week 12, suggesting that
+azelaic acid may have a slower onset of action. The combination of a gel containing azelaic acid 5% and erythromycin 2%
+was more effective than placebo, erythromycin 2% alone, or
+azelaic acid 20% alone.38
+No bacterial resistance has been associated with azelaic acid treatment. A further benefit of its use as an antiacne drug is
+that it reduces postinflammatory hyperpigmentation due to its
+antityrosinase activity.
+Side effects of azelaic acid include itching, burning, and
+dysesthesia.33 Local reactions may be better tolerated with
+gradual initiation of application (once-daily application) and
+contemporaneous application of soothing creams. To our
+knowledge, no cases of allergic contact dermatitis have been
+reported. After topical application of the 15% or 20% formulations, approximately 3-8% of the drug is absorbed systemically. Azelaic acid is neither toxic nor phototoxic, and it is not
+known to interact with other drugs.
+
+Benzoyl peroxide
+BPO is a powerful nonspecific antimicrobial agent. Its lipophilic nature allows it to penetrate the stratum corneum and to
+enter the pilosebaceous duct. It is rapidly degraded to benzoic
+acid and hydrogen peroxide, generating oxidative free radicals
+that result in bacteria death. It is also toxic to yeasts. Small
+concentrations of BPO can also harm neutrophils, inhibiting
+their release of reactive oxygen species and thus possibly preventing the release of proinflammation signals that have a role
+in acne. Benzoyl peroxide has been reported to reduce the
+P acnes population, including antibiotic-resistant strains, and
+to limit development of new resistant strains when used with
+antibiotics.34,35 No bacterial resistance to BPO has been reported. BPO has a mild comedolytic activity but does not to
+significantly affect sebum production. It is available in different formulations and concentrations (2.5%, 5%, and 10%).
+BPO is viewed as an effective topical treatment for acne.36
+Its action on inflammatory lesions is reported to be similar to
+topical antibiotics,37,38 but it is more effective on noninflamed
+lesions. Benzyl peroxide and topical tretinoin similarly reduce
+total acne lesions, but benzyl peroxide is probably superior to
+tretinoin in reducing inflammatory lesions.39 BPO 4% gel is
+also comparable to adapalene 0.1% gel in reducing both inflammatory and noninflammatory lesions at 11 weeks.40 A later study suggests a slight superiority of adapalene 0.1% gel to
+BPO 2.5% gel once daily for 2 months.41
+BPO is also available in combination with other acne treatments with different mechanism of action, in an effort to increase efficacy and to minimize bacteria resistance from
+topical antibiotics.
+A combination of BPO 5% and erythromycin 3%42 or clindamycin38,43 is more effective than either drug alone. Importantly, clindamycin 1%–benzyl peroxide 5% gel reduces
+clindamycin- and erythromycin-resistant strains of P acnes.44
+Gel formulations of clindamycin and lower concentrations of
+BPO—2.5%,42,45 3%,46 3.75%47,48—are thought to be better
+tolerated and effective in moderate to severe acne, but comparison studies have not yet been published. The combination of
+BPO 3% and clindamycin 1% once daily is more effective that
+azelaic acid 20% twice daily after 12 weeks of treatment.49
+Combinations of BPO and topical retinoids are also available. Adapalene 0.1%–BPO 2.5% gel is more effective than
+either drug used alone and has a faster onset of action.50,51
+Combination treatment with BPO and topical tretinoin is superior to monotherapy with either drug.17 This product combines
+the two drugs in an optimized aqueous gel formulation that
+protects tretinoin from fast peroxide-induced oxidation.52
+Side effects include a formulation- and concentrationdependent irritant dermatitis with redness, desquamation, and
+a burning sensation. These usually subside after several days
+of continued use.53 BPO can cause bleaching of hair, as well
+as bedding, clothes, and towels, so that patients should be advised to use white fabric. Rarely, BPO can cause sensitization
+and allergic dermatitis in acne patients, although the exact incidence of allergic contact dermatitis remains unknown.20
+
+Topical retinoids
+Topical retinoids used for acne include tretinoin, adapalene,
+tazarotene, and isotretinoin. They inhibit keratinocyte proliferation,
+improve differentiation, and, importantly, increase the follicular epithelial turnover, suppressing the formation of microcomedones,54 the earliest precursor of the acne lesion. Topical
+retinoids do not directly inhibit P acnes but rather create an inhospitable environment.55 Their action on sebum production
+is very limited compared with systemic retinoids.
+Tretinoin
+Is the first retinoid used for acne and has been used broadly
+for more than four decades. It is effective in comedonal and inflammatory mild to moderate acne,56 particularly when applied at night due to its photolability. Tretinoin is
+commercially available in several strengths and formulations.57 Recently, a short-contact regimen has also been reported to diminish irritant dermatitis often observed with
+tretinoin treatment.58
+Isotretinoin
+Is readily isomerized to tretinoin and vice versa. Used in a
+concentration of 0.05%, it is considered to have similar efficacy to tretinoin 0.05% cream59,60 and probably slightly inferior
+to adapalene 0.1% gel in reducing both inflammatory and noninflammatory lesions.61 A combination of isotretinoin 0.05%
+and erythromycin 2% is superior to isotretinoin alone.62
+Adapalene
+Is a synthetic retinoid that has been developed for treatment
+of acne vulgaris. Compared with tretinoin, it is less photolabile
+and more lipophilic, which enables it to penetrate follicles
+quickly. A meta-analysis of five well-controlled trials63 reported similar efficacy of adapalene 0.1% and tretinoin 0.025% after 12 weeks of treatment; however, adapalene has a more
+rapid onset of therapeutic action and produces less local skin
+irritation. A combination of adapalene 0.1% and BPO 2.5%
+is more effective than monotherapies.51,64 Similarly, a combination of adapalene 0.1% and clindamycin 1% is more effective than each of the drugs used alone.18 Adapalene in 0.3%
+concentration is also available, well tolerated,65 and probably
+comparable in efficacy to tretinoin 0.05%.66
+Tazarotene
+0.1% gel is effective in treating comedonal and inflammatory lesions in mild to moderate acne and is probably superior
+to tretinoin 0.025%67 and 0.05%,68 with a similar tolerability.
+Tazarotene 0.1% is more effective than adapalene 0.1%69 and
+0.3%,70 but it is also more irritating. A short-contact regimen
+of tazarotene gel 0.1% is also effective.71 The combination
+of tazarotene with clindamycin increases efficacy.72 Triple
+combinations of tazarotene 0.1% gel with a clindamycin
+1%–BPO 5% gel and erythromycin–benzoyl peroxide preparations72,73 have been reported to enhance efficacy versus
+monotherapy. The combination of tazarotene and BPO 4%
+does not result in a better therapeutic outcome.
+All retinoids can be contact irritants, with alcohol-based gels
+and solutions having the greatest irritancy potential. Patients
+should be advised to avoid harsh soaps and other potentially irritating agents that traumatize the epidermis and to regularly
+apply sunscreen. Alternate-day application (especially early in
+therapy), reduction of retinoid concentration, and combinations
+with less irritating agents should be suggested for several
+weeks if skin irritation is problematic. Improved delivery systems have been developed to decrease irritancy, primarily
+through controlled slow release. Rarely, all retinoids may cause
+allergic contact dermatitis.20 All topical retinoids should be
+avoided during pregnancy, with tazarotene carrying the strongest warning (Food and Drug Administration Category X).
+Topical dapsone
+Dapsone is a sulfone classified as an antimicrobial due to its
+inhibition of bacterial DNA synthesis and is also an effective
+antiinflammatory agent. Dapsone 5% gel is approved at a
+twice-daily application in the United States for the treatment
+of acne. An almost 30% reduction of inflammatory lesions
+count may be observed at 1 month74 and 50% at 3 months of
+treatment.75 A dapsone 7.5% gel applied once daily is equally
+effective,76,77 with a N50% reduction in inflammatory and
+N40% reduction in noninflammatory lesions at 12 weeks. Topical dapsone appears to benefit adult women more than adolescent girls or men.78,79 It has been reported safe and effective
+for long-term acne treatment74 or maintenance treatment after
+systemic medication81; however, the effect of dapsone use on
+bacterial resistance is unknown. No comparison studies to other topical agents have been published.
+Topical dapsone may cause mild irritation and dryness. Application of topical dapsone and BPO may result in an orangebrown coloration of the skin due to dapsone oxidation. This is
+easily washed off. Topical dapsone gel is pregnancy category
+C and is approved for patients 12 years or older. Glucose-6-
+phosphate dehydrogenase testing is not required before starting topical application.
+Conclusions
+Dermatologists have different options for the topical treatment of acne. BPO, topical retinoids, and azelaic acid may
+be used alone or in combination. Topical antibiotics are not
+recommended as monotherapy but may be part of acne treatment solely in combination with other agents to prevent further
+propagation of resistant P acnes strains. The precise role of
+topical dapsone remains to be determined, as we gain more experience with the agent, but it appears to be a good therapeutic
+option, particularly for adult women with acne.
